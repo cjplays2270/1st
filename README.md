@@ -1,1 +1,2 @@
-PLEASE DO NOT EDIT ANYTHING HERE!!! THIS IS JUST FOR SHOW AND IS MY FIRST TIME USING GUTHUB TO HOST A WEBPAGE!
+404 Error
+Visit https://cjplays2270.github.io/1st/bb1.html for actual site.
